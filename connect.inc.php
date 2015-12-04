@@ -2,7 +2,7 @@
 
 $mysql_host = 'robotsvsaliens.database.windows.net';
 $mysql_user = 'username';
-$mysql_pass = 'Stoley317';
+$mysql_pass = 'Password123';
 $mysql_db = 'a.database';
 $conn_error = 'couldnot conenct to database';
 // || !@mysql_select_db($mysql_db)
