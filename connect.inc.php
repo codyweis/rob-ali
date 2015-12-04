@@ -1,8 +1,8 @@
 <?php
 
 $mysql_host = 'robotsvsaliens.database.windows.net';
-$mysql_user = 'unsername';
-$mysql_pass = 'Password123';
+$mysql_user = 'username';
+$mysql_pass = 'Stoley317';
 $mysql_db = 'a.database';
 $conn_error = 'couldnot conenct to database';
 
