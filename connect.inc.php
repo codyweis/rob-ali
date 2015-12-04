@@ -1,6 +1,6 @@
 <?php
 
-$mysql_host = 'robotsvsaliens.database.windows.net';
+$mysql_host = 'robotsvsaliens';
 $mysql_user = 'username';
 $mysql_pass = 'Stoley317';
 $mysql_db = 'a.database';
